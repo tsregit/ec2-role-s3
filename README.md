@@ -2,7 +2,7 @@
 
 Este ejemplo tiene el codigo para crear:
 
- Una instancia EC2, VPC, subnet(Privada y Publica) y Securit Groups. Además de agregar un role a dicha instancia para utilizar el servicio S3. 
+ Una instancia EC2, VPC, subnet(Privada y Publica) y Security Group. Además de agregar un role a dicha instancia para utilizar el servicio S3. 
 
 Para ejecutar esta plantilla de terraform se debe utilizar **tfvars-dev.json**
 
